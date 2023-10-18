@@ -1,3 +1,4 @@
 1. Use CSS Variables 
 2. Draggable Attribute in IMG tag 
 3. How to use Transform property in css and also transition property.
+4. How I can use DragOver , DragLeave & other drag property in JS.

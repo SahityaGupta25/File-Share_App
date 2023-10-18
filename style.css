@@ -90,6 +90,9 @@ body,.drop-zone{
     transform-origin: bottom;
 }
 
+
+/** CENTER    Image of .icon-container */
+
 .dragged .icon-container .center{
     transform: translateY(-6px);
 }
