@@ -1,0 +1,2 @@
+1. Use CSS Variables 
+2. Draggable Attribute in IMG tag 
